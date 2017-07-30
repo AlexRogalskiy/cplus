@@ -1,3 +1,7 @@
+# Code Blocks files
+bin/
+obj/
+
 # Prerequisites
 *.d
 

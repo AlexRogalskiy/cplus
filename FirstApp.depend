@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1499650698 source:c:\users\alex\documents\cprojects\firstapp\main.cpp
+	<iostream>
+
+1499643149 source:c:\users\alex\documents\cprojects\firstapp\test_001.cpp
+	<cstdlib>
+
+1499648004 source:c:\users\alex\documents\cprojects\firstapp\test_002.cpp
+	<cstdlib>
+
+1499639587 source:c:\users\alex\documents\cprojects\firstapp\test_003.cpp
+
+1499641429 source:c:\users\alex\documents\cprojects\firstapp\test_004.cpp
+
+1499642972 source:c:\users\alex\documents\cprojects\firstapp\test_005.cpp
+
+1499643909 source:c:\users\alex\documents\cprojects\firstapp\test_006.cpp
+
+1499648619 source:c:\users\alex\documents\cprojects\firstapp\test_007.cpp
+
+1499646277 source:c:\users\alex\documents\cprojects\firstapp\test_008.cpp
+
+1499650881 source:c:\users\alex\documents\cprojects\firstapp\test_009.cpp
+	<iostream>
+	<vector>
+
+1499652269 source:c:\users\alex\documents\cprojects\firstapp\test_010.cpp
+
